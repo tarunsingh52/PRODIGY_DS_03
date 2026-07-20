@@ -213,18 +213,4 @@ This project helped in understanding:
 
 ---
 
-## 👨‍💻 Author
-
-**Subhasisha Jena**
-
-B.Tech Data Science Student
-
-GitHub:
-https://github.com/subhasishajena28
-
-LinkedIn:
-(Add your LinkedIn profile here)
-
----
-
 ⭐ If you found this project useful, don't forget to Star the repository.
