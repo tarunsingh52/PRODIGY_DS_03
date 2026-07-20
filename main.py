@@ -1,6 +1,6 @@
 # =====================================================
 # Bank Marketing Prediction using Decision Tree
-# Author: Subhasisha Jena
+# Author: Tarun Singh
 # =====================================================
 
 import os
